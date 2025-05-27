@@ -204,7 +204,24 @@ This application enables data-driven decision-making for agricultural planning t
 - **Top Production per Country:** Discover top 5 crops by production volume for each selected country.  
 - **Actionable Insights  :** Analyze yield and production efficiency, receive human-readable recommendations, and download CSV summaries for planning use.
 
+  **Home Page**
   ![image](https://github.com/user-attachments/assets/5f36a10c-6099-455d-ad4f-858bf0b87e25)
+
+  **Data Exploration**
+  ![image](https://github.com/user-attachments/assets/0bad3fec-b797-4725-b92f-c9e1cce5d737)
+  ![image](https://github.com/user-attachments/assets/d25a847b-31b7-4567-a38e-dad3d6bddace)
+  ![image](https://github.com/user-attachments/assets/f264cc55-e139-44f5-90d3-f184d7c27ba5)
+
+  **Trend Analysis**
+  ![image](https://github.com/user-attachments/assets/32ab9a8f-64a8-444c-acef-708543d0eb81)
+  ![image](https://github.com/user-attachments/assets/58344196-b283-4a9a-9fb8-115a0406957c)
+  ![image](https://github.com/user-attachments/assets/0f9c7959-79d5-41b6-b449-d37a87e4815f)
+  ![image](https://github.com/user-attachments/assets/0b9e5133-8f24-400f-bdbb-642306887a2e)
+
+  **Modeling & Prediction**
+  ![image](https://github.com/user-attachments/assets/096ec892-cbe5-4eae-852e-755e472e69df)
+  ![image](https://github.com/user-attachments/assets/d3078537-e7e4-4404-9311-31b340a16e4e)
   
+
 
 ###Author Bala Sowntharya Bala Subramanian
