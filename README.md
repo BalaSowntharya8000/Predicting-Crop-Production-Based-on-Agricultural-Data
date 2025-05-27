@@ -242,6 +242,7 @@ This project effectively demonstrates the use of machine learning techniques to 
 
 ### Optional Enhancements
 **Web App Deployment:** Develop a user-friendly web interface that allows farmers and agricultural agencies to input relevant data and receive instant crop production predictions.
+
 **Multilingual Support:** Enable the application to support regional languages to make it more accessible and user-friendly for a diverse group of users across different regions.
 
 ### Author Bala Sowntharya Bala Subramanian
