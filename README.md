@@ -76,27 +76,27 @@ Access the datasets used in this project from the following links:
 FAOSTAT_data - https://docs.google.com/spreadsheets/d/1rxG8FoHzFL_0S6FH6fljti1I3uPGDyihMj82_6HE4CU/edit?usp=sharing
 
 ### Dataset Explanation
-1) Domain Code & Domain:
-     Domain Code: Identifier for the data domain (e.g., QCL for crops and livestock).
-     Domain     : The specific area of focus, such as "Crops and livestock products."
-2) Area Code (M49) & Area:
-     Area Code (M49): Numerical code representing countries or regions (e.g., "4" for Afghanistan).
-     Area           : Name of the country or region (e.g., Afghanistan).
-3) Element Code & Element:
-     Element Code: Numeric code for the measured parameter (e.g., 5312 for area harvested).
-     Element     : Description of the parameter (e.g., Area harvested, Yield, or Production).
-4) Item Code (CPC) & Item:
-     Item Code (CPC): Classification code for the crop/product (e.g., 1371 for Almonds, in shell).
-     Item           : The name of the crop/product (e.g., Almonds, in shell).
-5) Year Code & Year:
-     Year Code: Numerical representation of the year.
-     Year     : The calendar year for the recorded data.
-6) Unit & Value:
-     Unit : Unit of measurement (e.g., ha for hectares, kg/ha for yield, t(tons) for production).
-     Value: The quantitative measure for the element and crop (e.g., 29203 hectares harvested).
-7) Flag & Flag Description:
-     Flag            : Coded indication of the data source or nature (e.g., "A").
-     Flag Description: Explanation of the flag (e.g., Official figure).
+1) **Domain Code & Domain:**
+     **Domain Code:** Identifier for the data domain (e.g., QCL for crops and livestock).
+     **Domain     :** The specific area of focus, such as "Crops and livestock products."
+2) **Area Code (M49) & Area:**
+     **Area Code (M49):** Numerical code representing countries or regions (e.g., "4" for Afghanistan).
+     **Area           :** Name of the country or region (e.g., Afghanistan).
+3) **Element Code & Element:**
+     **Element Code:** Numeric code for the measured parameter (e.g., 5312 for area harvested).
+     **Element     :** Description of the parameter (e.g., Area harvested, Yield, or Production).
+4) **Item Code (CPC) & Item:**
+     **Item Code (CPC):** Classification code for the crop/product (e.g., 1371 for Almonds, in shell).
+     **Item           :** The name of the crop/product (e.g., Almonds, in shell).
+5) **Year Code & Year:**
+     **Year Code:** Numerical representation of the year.
+     **Year     :** The calendar year for the recorded data.
+6) **Unit & Value:**
+     **Unit :** Unit of measurement (e.g., ha for hectares, kg/ha for yield, t(tons) for production).
+     **Value:** The quantitative measure for the element and crop (e.g., 29203 hectares harvested).
+7) **Flag & Flag Description:**
+     **Flag            :** Coded indication of the data source or nature (e.g., "A").
+     **Flag Description:** Explanation of the flag (e.g., Official figure).
 
 This dataset enables analysis of agricultural patterns, including area harvested, crop yield, and production by region and year.
 
@@ -240,7 +240,7 @@ This application enables data-driven decision-making for agricultural planning t
 ### Conclusion
 This project effectively demonstrates the use of machine learning techniques to predict crop production based on agricultural parameters such as area, season, and crop type. The trained model delivers high accuracy, offering valuable insights that can support decision-making for farmers, agricultural planners, and policymakers. Overall, it highlights how data-driven solutions can contribute to food security and efficient resource planning in the agriculture sector.
 
-###Optional Enhancements
+### Optional Enhancements
 **Web App Deployment:** Develop a user-friendly web interface that allows farmers and agricultural agencies to input relevant data and receive instant crop production predictions.
 **Multilingual Support:** Enable the application to support regional languages to make it more accessible and user-friendly for a diverse group of users across different regions.
 
