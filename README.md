@@ -220,8 +220,18 @@ This application enables data-driven decision-making for agricultural planning t
 
   **Modeling & Prediction**
   ![image](https://github.com/user-attachments/assets/096ec892-cbe5-4eae-852e-755e472e69df)
-  ![image](https://github.com/user-attachments/assets/d3078537-e7e4-4404-9311-31b340a16e4e)
-  
+  ![image](https://github.com/user-attachments/assets/8f636037-6850-4854-9d8e-a5d5ab707ed5)
+  ![image](https://github.com/user-attachments/assets/8809ac7a-9d65-4115-80dd-4ffde0f4be53)
+  ![image](https://github.com/user-attachments/assets/5a1c6289-e50b-410b-ac5b-1f9502088590)
+
+  **Top Production per Country**
+  ![image](https://github.com/user-attachments/assets/c0740f5e-8710-4bed-8699-4be2294bc4bd)
+
+  **Actionable Insights**
+  ![image](https://github.com/user-attachments/assets/9e6f53b0-d1c3-4e58-bc89-a64ef54c88db)
+  ![image](https://github.com/user-attachments/assets/41071db2-c4d2-4384-adae-3253d839129b)
+  ![image](https://github.com/user-attachments/assets/f3472a1d-b4f0-45a9-914d-9499a525d998)
+  ![image](https://github.com/user-attachments/assets/ad8fd1b5-3d44-494d-9f04-b01d1b1dd55a)
 
 
-###Author Bala Sowntharya Bala Subramanian
+  ###Author Bala Sowntharya Bala Subramanian
