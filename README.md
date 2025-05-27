@@ -172,7 +172,7 @@ We developed regression models to predict crop production (in tons) based on yea
 - **Ridge Regression**: Linear model with regularization to prevent overfitting.
 - **Random Forest**: Captures complex, non-linear patterns and is robust to noise.
 
-## Model Evaluation
+### Model Evaluation
 
 To evaluate the performance of each regression model, we used the following metrics:
 
@@ -197,12 +197,16 @@ To evaluate the performance of each regression model, we used the following metr
 ### Streamlit App Features  
 This application enables data-driven decision-making for agricultural planning through visualization, prediction, and actionable recommendations.
 
-- **Home Page            :** Personalized greetings and project overview with visual context.  
-- **Data Exploration     :** Interactive preview of cleaned data with filtering options and visual insights.  
-- **Trend Analysis       :** Visualize production trends across years, crops, and countries using Plotly charts.  
-- **Modeling & Prediction:** Train and evaluate Linear, Ridge, and Random Forest models to predict future crop yields with RMSE and R² metrics.  
+- **Home Page                 :** Personalized greetings and project overview with visual context.  
+- **Data Exploration          :** Interactive preview of cleaned data with filtering options and visual insights.  
+- **Trend Analysis            :** Visualize production trends across years, crops, and countries using Plotly charts.  
+- **Modeling & Prediction     :** Train and evaluate Linear, Ridge, and Random Forest models to predict future crop yields with RMSE and R² metrics.  
 - **Top Production per Country:** Discover top 5 crops by production volume for each selected country.  
-- **Actionable Insights  :** Analyze yield and production efficiency, receive human-readable recommendations, and download CSV summaries for planning use.
+- **Actionable Insights       :** Analyze yield and production efficiency, receive human-readable recommendations, and download CSV summaries for planning use.
+
+### Usage: How to Run the Project
+ To run the project, open the terminal and use the following command:
+ **streamlit run app(file name).py**
 
   **Home Page**
   ![image](https://github.com/user-attachments/assets/5f36a10c-6099-455d-ad4f-858bf0b87e25)
@@ -233,5 +237,11 @@ This application enables data-driven decision-making for agricultural planning t
   ![image](https://github.com/user-attachments/assets/f3472a1d-b4f0-45a9-914d-9499a525d998)
   ![image](https://github.com/user-attachments/assets/ad8fd1b5-3d44-494d-9f04-b01d1b1dd55a)
 
+### Conclusion
+This project effectively demonstrates the use of machine learning techniques to predict crop production based on agricultural parameters such as area, season, and crop type. The trained model delivers high accuracy, offering valuable insights that can support decision-making for farmers, agricultural planners, and policymakers. Overall, it highlights how data-driven solutions can contribute to food security and efficient resource planning in the agriculture sector.
 
-  ###Author Bala Sowntharya Bala Subramanian
+###Optional Enhancements
+**Web App Deployment:** Develop a user-friendly web interface that allows farmers and agricultural agencies to input relevant data and receive instant crop production predictions.
+**Multilingual Support:** Enable the application to support regional languages to make it more accessible and user-friendly for a diverse group of users across different regions.
+
+### Author Bala Sowntharya Bala Subramanian
