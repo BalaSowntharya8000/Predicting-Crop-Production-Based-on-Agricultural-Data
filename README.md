@@ -14,12 +14,12 @@ This regression-focused machine learning project forecasts crop production for d
 By analyzing historical data for various crops in a specific region, the model supports better planning and decision-making in agriculture.
 
 ### Business Use Cases
-**1) Food Security and Planning    :** Help governments and NGOs plan supplies
-**2)Agricultural Policy Development:** Inform agricultural policies and subsidies
-**3) Supply Chain Optimization     :** Optimize storage, transport, and market logistics
-**4) Market Price Forecasting      :** Predict prices and selling time
-**5) Precision Farming             :** Select ideal crops based on productivity
-**6) Agro-Technology Solutions     :** Fuel intelligent agri applications
+- **1) Food Security and Planning    :** Help governments and NGOs plan supplies
+- **2)Agricultural Policy Development:** Inform agricultural policies and subsidies
+- **3) Supply Chain Optimization     :** Optimize storage, transport, and market logistics
+- **4) Market Price Forecasting      :** Predict prices and selling time
+- **5) Precision Farming             :** Select ideal crops based on productivity
+- **6) Agro-Technology Solutions     :** Fuel intelligent agri applications
 
 ### Technologies Used
 - **Python**        : Data handling and logic implementation
