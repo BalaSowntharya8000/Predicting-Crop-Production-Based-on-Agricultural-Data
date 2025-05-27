@@ -237,12 +237,12 @@ This application enables data-driven decision-making for agricultural planning t
   ![image](https://github.com/user-attachments/assets/f3472a1d-b4f0-45a9-914d-9499a525d998)
   ![image](https://github.com/user-attachments/assets/ad8fd1b5-3d44-494d-9f04-b01d1b1dd55a)
 
-### Conclusion
-This project effectively demonstrates the use of machine learning techniques to predict crop production based on agricultural parameters such as area, season, and crop type. The trained model delivers high accuracy, offering valuable insights that can support decision-making for farmers, agricultural planners, and policymakers. Overall, it highlights how data-driven solutions can contribute to food security and efficient resource planning in the agriculture sector.
-
 ### Optional Enhancements
 **Web App Deployment:** Develop a user-friendly web interface that allows farmers and agricultural agencies to input relevant data and receive instant crop production predictions.
 
-**Multilingual Support:** Enable the application to support regional languages to make it more accessible and user-friendly for a diverse group of users across different regions.
+**Multilingual Support:** Enable the application to support regional languages to make it more accessible and user-friendly for a diverse group of users across different regions.  
+
+### Conclusion
+This project effectively demonstrates the use of machine learning techniques to predict crop production based on agricultural parameters such as area, season, and crop type. The trained model delivers high accuracy, offering valuable insights that can support decision-making for farmers, agricultural planners, and policymakers. Overall, it highlights how data-driven solutions can contribute to food security and efficient resource planning in the agriculture sector.
 
 ### Author Bala Sowntharya Bala Subramanian
