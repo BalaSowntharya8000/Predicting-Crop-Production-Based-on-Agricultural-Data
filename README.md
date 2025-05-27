@@ -209,7 +209,7 @@ This application enables data-driven decision-making for agricultural planning t
  **streamlit run app(file name).py**
 
   **Home Page**
-  ![image](https://github.com/user-attachments/assets/5f36a10c-6099-455d-ad4f-858bf0b87e25)
+  ![image](https://github.com/user-attachments/assets/79ac2646-927c-4853-8c7b-9503678dc5f2)
 
   **Data Exploration**
   ![image](https://github.com/user-attachments/assets/0bad3fec-b797-4725-b92f-c9e1cce5d737)
