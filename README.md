@@ -6,10 +6,10 @@ Agriculture is a key contributor to the economy, and accurately predicting crop 
 ### Project Overview
 This regression-focused machine learning project forecasts crop production for different crops across regions and years. It supports data-driven decisions in agricultural planning and supply chain optimization.
 
-- Domain        : Agriculture
-- Goal          : Predict total crop production
-- Input Features: Area harvested(hectares), Yield(kg/ha), Year
-- Output        : Crop production (in tons)
+- **Domain**        : Agriculture
+- **Goal**          : Predict total crop production
+- **Input Features**: Area harvested(hectares), Yield(kg/ha), Year
+- **Output**        : Crop production (in tons)
 
 By analyzing historical data for various crops in a specific region, the model supports better planning and decision-making in agriculture.
 
