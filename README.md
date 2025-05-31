@@ -208,6 +208,8 @@ This application enables data-driven decision-making for agricultural planning t
  To run the project, open the terminal and use the following command:
  **streamlit run app(file name).py**
 
+ **Output**
+
   **Home Page**
   ![image](https://github.com/user-attachments/assets/79ac2646-927c-4853-8c7b-9503678dc5f2)
 
